@@ -10,8 +10,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
         title: 'Trending',
         theme: ThemeData(
-          scaffoldBackgroundColor: Colors.grey[50],
-          primaryColor: Colors.deepOrangeAccent,
+          scaffoldBackgroundColor: Colors.green[100],
+          primaryColor: Colors.blueGrey,
         ),
         home: TrendingTracks());
   }

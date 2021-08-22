@@ -67,7 +67,7 @@ class TrackDetailsState extends State<TrackDetails> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.grey,
         iconTheme: IconThemeData(color: Colors.black),
         title: Text("Track Details", style: TextStyle(color: Colors.black)),
       ),
