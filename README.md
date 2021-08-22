@@ -1,4 +1,4 @@
-# musicapp
+# GetLyric
 
 A new Flutter application.
 
